@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id "com.google.protobuf" version "0.8.17"
+}
+
+group 'org.proto_i18n'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.protobuf:protobuf-java:3.18.0'
+}
+
+protobuf {
+    generatedFilesBaseDir = "$projectDir/src"
+}

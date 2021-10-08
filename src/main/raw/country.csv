@@ -1,0 +1,247 @@
+1,AD,Andorra,AND,20,EUR
+2,AE,United Arab Emirates,ARE,784,AED
+3,AF,Afghanistan,AFG,4,AFN
+4,AG,Antigua and Barbuda,ATG,28,XCD
+5,AI,Anguilla,AIA,660,XCD
+6,AL,Albania,ALB,8,ALL
+7,AM,Armenia,ARM,51,AMD
+8,AN,Netherlands Antilles,ANT,530,ANG
+9,AO,Angola,AGO,24,AOA
+10,AQ,Antarctica,ATA,10,AQD
+11,AR,Argentina,ARG,32,ARS
+12,AS,American Samoa,ASM,16,EUR
+13,AT,Austria,AUT,40,EUR
+14,AU,Australia,AUS,36,AUD
+15,AW,Aruba,ABW,533,ANG
+16,AX,Aland Islands,ALA,248,EUR
+17,AZ,Azerbaijan,AZE,31,AZN
+18,BA,Bosnia and Herzegovina,BIH,70,BAM
+19,BB,Barbados,BRB,52,BBD
+20,BD,Bangladesh,BGD,50,BDT
+21,BE,Belgium,BEL,56,EUR
+22,BF,Burkina Faso,BFA,854,XOF
+23,BG,Bulgaria,BGR,100,BGN
+24,BH,Bahrain,BHR,48,BHD
+25,BI,Burundi,BDI,108,BIF
+26,BJ,Benin,BEN,204,XOF
+27,BL,Saint-Barth¨¦lemy,BLM,652,EUR
+28,BM,Bermuda,BMU,60,BMD
+29,BN,Brunei Darussalam,BRN,96,BND
+30,BO,Bolivia,BOL,68,BOB
+31,BR,Brazil,BRA,76,BRL
+32,BS,Bahamas,BHS,44,BSD
+33,BT,Bhutan,BTN,64,INR
+34,BV,Bouvet Island,BVT,74,NOK
+35,BW,Botswana,BWA,72,BWP
+36,BY,Belarus,BLR,112,BYR
+37,BZ,Belize,BLZ,84,BZD
+38,CA,Canada,CAN,124,CAD
+39,CC,Cocos (Keeling) Islands,CCK,166,AUD
+40,CD,"Congo, (Kinshasa)",COD,180,CDF
+41,CF,Central African Republic,CAF,140,XAF
+42,CG,Congo?(Brazzaville),COG,178,XAF
+43,CH,Switzerland,CHE,756,CHF
+44,CI,C?te d'Ivoire,CIV,384,XOF
+45,CK,Cook Islands,COK,184,NZD
+46,CL,Chile,CHL,152,CLP
+47,CM,Cameroon,CMR,120,XAF
+48,CN,China,CHN,156,CNY
+49,CO,Colombia,COL,170,COP
+50,CR,Costa Rica,CRI,188,CRC
+51,CU,Cuba,CUB,192,CUP
+52,CV,Cape Verde,CPV,132,CVE
+53,CX,Christmas Island,CXR,162,AUD
+54,CY,Cyprus,CYP,196,CYP
+55,CZ,Czech Republic,CZE,203,CZK
+56,DE,Germany,DEU,276,EUR
+57,DJ,Djibouti,DJI,262,DJF
+58,DK,Denmark,DNK,208,DKK
+59,DM,Dominica,DMA,212,XCD
+60,DO,Dominican Republic,DOM,214,DOP
+61,DZ,Algeria,DZA,12,DZD
+62,EC,Ecuador,ECU,218,ECS
+63,EE,Estonia,EST,233,EEK
+64,EG,Egypt,EGY,818,EGP
+65,EH,Western Sahara,ESH,732,MAD
+66,ER,Eritrea,ERI,232,ETB
+67,ES,Spain,ESP,724,EUR
+68,ET,Ethiopia,ETH,231,ETB
+69,FI,Finland,FIN,246,EUR
+70,FJ,Fiji,FJI,242,FJD
+71,FK,Falkland Islands (Malvinas),FLK,238,FKP
+72,FM,"Micronesia, Federated States of",FSM,583,USD
+73,FO,Faroe Islands,FRO,234,DKK
+74,FR,France,FRA,250,EUR
+75,GA,Gabon,GAB,266,XAF
+76,GB,United Kingdom,GBR,826,GBP
+77,GD,Grenada,GRD,308,XCD
+78,GE,Georgia,GEO,268,GEL
+79,GF,French Guiana,GUF,254,EUR
+80,GG,Guernsey,GGY,831,GGP
+81,GH,Ghana,GHA,288,GHS
+82,GI,Gibraltar,GIB,292,GIP
+83,GL,Greenland,GRL,304,DKK
+84,GM,Gambia,GMB,270,GMD
+85,GN,Guinea,GIN,324,GNF
+86,GP,Guadeloupe,GLP,312,EUR
+87,GQ,Equatorial Guinea,GNQ,226,XAF
+88,GR,Greece,GRC,300,EUR
+89,GS,South Georgia and the South Sandwich Islands,SGS,239,GBP
+90,GT,Guatemala,GTM,320,GTQ
+91,GU,Guam,GUM,316,USD
+92,GW,Guinea-Bissau,GNB,624,XOF
+93,GY,Guyana,GUY,328,GYD
+94,HK,"Hong Kong, SAR China",HKG,344,HKD
+95,HM,Heard and Mcdonald Islands,HMD,334,AUD
+96,HN,Honduras,HND,340,HNL
+97,HR,Croatia,HRV,191,HRK
+98,HT,Haiti,HTI,332,HTG
+99,HU,Hungary,HUN,348,HUF
+100,ID,Indonesia,IDN,360,IDR
+101,IE,Ireland,IRL,372,EUR
+102,IL,Israel,ISR,376,ILS
+103,IM,Isle of Man,IMN,833,GBP
+104,IN,India,IND,356,INR
+105,IO,British Indian Ocean Territory,IOT,86,USD
+106,IQ,Iraq,IRQ,368,IQD
+107,IR,"Iran, Islamic Republic of",IRN,364,IRR
+108,IS,Iceland,ISL,352,ISK
+109,IT,Italy,ITA,380,EUR
+110,JE,Jersey,JEY,832,GBP
+111,JM,Jamaica,JAM,388,JMD
+112,JO,Jordan,JOR,400,JOD
+113,JP,Japan,JPN,392,JPY
+114,KE,Kenya,KEN,404,KES
+115,KG,Kyrgyzstan,KGZ,417,KGS
+116,KH,Cambodia,KHM,116,KHR
+117,KI,Kiribati,KIR,296,AUD
+118,KM,Comoros,COM,174,KMF
+119,KN,Saint Kitts and Nevis,KNA,659,XCD
+120,KP,Korea?(North),PRK,408,KPW
+121,KR,Korea?(South),KOR,410,KRW
+122,KW,Kuwait,KWT,414,KWD
+123,KY,Cayman Islands,CYM,136,KYD
+124,KZ,Kazakhstan,KAZ,398,KZT
+125,LA,Lao PDR,LAO,418,LAK
+126,LB,Lebanon,LBN,422,LBP
+127,LC,Saint Lucia,LCA,662,XCD
+128,LI,Liechtenstein,LIE,438,CHF
+129,LK,Sri Lanka,LKA,144,LKR
+130,LR,Liberia,LBR,430,LRD
+131,LS,Lesotho,LSO,426,LSL
+132,LT,Lithuania,LTU,440,LTL
+133,LU,Luxembourg,LUX,442,EUR
+134,LV,Latvia,LVA,428,LVL
+135,LY,Libya,LBY,434,LYD
+136,MA,Morocco,MAR,504,MAD
+137,MC,Monaco,MCO,492,EUR
+138,MD,Moldova,MDA,498,MDL
+139,ME,Montenegro,MNE,499,EUR
+140,MF,Saint-Martin (French part),MAF,663,ANG
+141,MG,Madagascar,MDG,450,MGA
+142,MH,Marshall Islands,MHL,584,USD
+143,MK,"Macedonia, Republic of",MKD,807,MKD
+144,ML,Mali,MLI,466,XOF
+145,MM,Myanmar,MMR,104,MMK
+146,MN,Mongolia,MNG,496,MNT
+147,MO,"Macao, SAR China",MAC,446,MOP
+148,MP,Northern Mariana Islands,MNP,580,USD
+149,MQ,Martinique,MTQ,474,EUR
+150,MR,Mauritania,MRT,478,MRO
+151,MS,Montserrat,MSR,500,XCD
+152,MT,Malta,MLT,470,MTL
+153,MU,Mauritius,MUS,480,MUR
+154,MV,Maldives,MDV,462,MVR
+155,MW,Malawi,MWI,454,MWK
+156,MX,Mexico,MEX,484,MXN
+157,MY,Malaysia,MYS,458,MYR
+158,MZ,Mozambique,MOZ,508,MZN
+159,NA,Namibia,NAM,516,NAD
+160,NC,New Caledonia,NCL,540,XPF
+161,NE,Niger,NER,562,XOF
+162,NF,Norfolk Island,NFK,574,AUD
+163,NG,Nigeria,NGA,566,NGN
+164,NI,Nicaragua,NIC,558,NIO
+165,NL,Netherlands,NLD,528,EUR
+166,NO,Norway,NOR,578,NOK
+167,NP,Nepal,NPL,524,NPR
+168,NR,Nauru,NRU,520,AUD
+169,NU,Niue,NIU,570,NZD
+170,NZ,New Zealand,NZL,554,NZD
+171,OM,Oman,OMN,512,OMR
+172,PA,Panama,PAN,591,PAB
+173,PE,Peru,PER,604,PEN
+174,PF,French Polynesia,PYF,258,XPF
+175,PG,Papua New Guinea,PNG,598,PGK
+176,PH,Philippines,PHL,608,PHP
+177,PK,Pakistan,PAK,586,PKR
+178,PL,Poland,POL,616,PLN
+179,PM,Saint Pierre and Miquelon,SPM,666,EUR
+180,PN,Pitcairn,PCN,612,NZD
+181,PR,Puerto Rico,PRI,630,USD
+182,PS,Palestinian Territory,PSE,275,JOD
+183,PT,Portugal,PRT,620,EUR
+184,PW,Palau,PLW,585,USD
+185,PY,Paraguay,PRY,600,PYG
+186,QA,Qatar,QAT,634,QAR
+187,RE,R¨¦union,REU,638,EUR
+188,RO,Romania,ROU,642,RON
+189,RS,Serbia,SRB,688,RSD
+190,RU,Russian Federation,RUS,643,RUB
+191,RW,Rwanda,RWA,646,RWF
+192,SA,Saudi Arabia,SAU,682,SAR
+193,SB,Solomon Islands,SLB,90,SBD
+194,SC,Seychelles,SYC,690,SCR
+195,SD,Sudan,SDN,736,SDG
+196,SE,Sweden,SWE,752,SEK
+197,SG,Singapore,SGP,702,SGD
+198,SH,Saint Helena,SHN,654,GBP
+199,SI,Slovenia,SVN,705,EUR
+200,SJ,Svalbard and Jan Mayen Islands,SJM,744,NOK
+201,SK,Slovakia,SVK,703,SKK
+202,SL,Sierra Leone,SLE,694,SLL
+203,SM,San Marino,SMR,674,EUR
+204,SN,Senegal,SEN,686,XOF
+205,SO,Somalia,SOM,706,SOS
+206,SR,Suriname,SUR,740,SRD
+207,SS,South Sudan,SSD,728,SSP
+208,ST,Sao Tome and Principe,STP,678,STD
+209,SV,El Salvador,SLV,222,SVC
+210,SY,Syrian Arab Republic?(Syria),SYR,760,SYP
+211,SZ,Swaziland,SWZ,748,SZL
+212,TC,Turks and Caicos Islands,TCA,796,USD
+213,TD,Chad,TCD,148,XAF
+214,TF,French Southern Territories,ATF,260,EUR
+215,TG,Togo,TGO,768,XOF
+216,TH,Thailand,THA,764,THB
+217,TJ,Tajikistan,TJK,762,TJS
+218,TK,Tokelau,TKL,772,NZD
+219,TL,Timor-Leste,TLS,626,USD
+220,TM,Turkmenistan,TKM,795,TMT
+221,TN,Tunisia,TUN,788,TND
+222,TO,Tonga,TON,776,TOP
+223,TR,Turkey,TUR,792,TRY
+224,TT,Trinidad and Tobago,TTO,780,TTD
+225,TV,Tuvalu,TUV,798,AUD
+226,TW,"Taiwan, Republic of China",TWN,158,TWD
+227,TZ,"Tanzania, United Republic of",TZA,834,TZS
+228,UA,Ukraine,UKR,804,UAH
+229,UG,Uganda,UGA,800,UGX
+230,UM,US Minor Outlying Islands,UMI,581,USD
+231,US,United States of America,USA,840,USD
+232,UY,Uruguay,URY,858,UYU
+233,UZ,Uzbekistan,UZB,860,UZS
+234,VA,Holy See?(Vatican City State),VAT,336,EUR
+235,VC,Saint Vincent and Grenadines,VCT,670,XCD
+236,VE,Venezuela?(Bolivarian Republic),VEN,862,VEF
+237,VG,British Virgin Islands,VGB,92,USD
+238,VI,"Virgin Islands, US",VIR,850,USD
+239,VN,Viet Nam,VNM,704,VND
+240,VU,Vanuatu,VUT,548,VUV
+241,WF,Wallis and Futuna Islands,WLF,876,XPF
+242,WS,Samoa,WSM,882,EUR
+243,YE,Yemen,YEM,887,YER
+244,YT,Mayotte,MYT,175,EUR
+245,ZA,South Africa,ZAF,710,ZAR
+246,ZM,Zambia,ZMB,894,ZMK
+247,ZW,Zimbabwe,ZWE,716,ZWD
